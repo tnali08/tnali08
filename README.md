@@ -6,4 +6,7 @@ My experience includes working on scalable backend systems, machine learning pip
 
 I am currently seeking full-time opportunities in Software Engineering, AI/ML Engineering, or Data-focused roles, where I can contribute to building impactful, production-grade systems while continuing to grow as an engineer.
 
+Email: tejaswinnk8@gmail.com 
+LinkedIn: https://linkedin.com/in/tejaswi-nali
+
 
